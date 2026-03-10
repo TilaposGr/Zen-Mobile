@@ -1,7 +1,7 @@
 # Zen Browser for Android
 
+NOT AFFILIATED WITH THE ZEN BROWSER TEAM!
 
-[![codecov](https://codecov.io/gh/mozilla-mobile/fenix/branch/main/graph/badge.svg)](https://codecov.io/gh/mozilla-mobile/fenix)
 
 Fenix (internal codename) is the all-new Firefox for Android browser, based on [GeckoView](https://mozilla.github.io/geckoview/) and [Mozilla Android Components](https://mozac.org/).
 
